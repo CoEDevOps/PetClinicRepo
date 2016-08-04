@@ -455,4 +455,11 @@
    </profiles>
 
     <url>demopetclinic</url>
+    
+    <scm>
+	<connection>scm:git:git@github.com:CoEDevOps/PetClinicRepo.git</connection>
+	<url>scm:git:git@github.com:CoEDevOps/PetClinicRepo.git</url>
+	<developerConnection>scm:git:git@github.com:CoEDevOps/PetClinicRepo.git</developerConnection>
+  </scm>
+  
 </project>
